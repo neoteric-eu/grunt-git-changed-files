@@ -1,0 +1,12 @@
+{
+  "name": "grunt-git-changed-files",
+  "main": "tasks",
+  "version": "1.0.4",
+  "files": [
+    "tasks"
+  ],
+  "dependencies": {
+    "grunt-prompt": "^1.3.0",
+    "q": "1.4.x"
+  }
+}
